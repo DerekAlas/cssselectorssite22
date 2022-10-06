@@ -1,0 +1,33 @@
+div::first-letter{
+  font-size: 30px;
+}
+
+[id=labore]{
+  color: blue;
+}
+
+[title~=hello]{
+  text-decoration: underline;
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+
+h1:hover{
+  color: green;
+}
+
+[id$=ner]{
+  display: flex;
+}
+
+[id$=2]{
+  display: flex;
+}
+
+
+img:last-child{
+  border: 10px solid blue;
+}
